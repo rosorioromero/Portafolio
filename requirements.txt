@@ -1,0 +1,13 @@
+ ipykernel
+ pandas
+ numpy
+ matplotlib
+ seaborn
+ scipy
+ statsmodels
+ missingno
+ openpyxl
+ contextily
+ geopandas
+ scikit-learn
+ beautifulsoup4

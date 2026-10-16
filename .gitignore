@@ -1,0 +1,26 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos personales o documentos excluidos
+Portafolio de Proyectos.docx
+
+# Archivos en desarrollo / incompletos
+3. Pronostico/prophet_demanda_multi.ipynb
+
+# Carpetas en desarrollo o incompletas
+2. EDA/Clasificacion/
+4. Clasificacion/
+5. Regresion/
+6. Clustering/

@@ -1,0 +1,16 @@
+ID_Vendedor,Nombre_Vendedor,Sucursal,Meta_Ventas_Mes_USD,Meta_Unidades_Mes
+VEND-001,Carlos Mendoza,Tienda Central - Lima,15000,25
+VEND-002,Ana Gutiérrez,Tienda Norte - Megaplaza,20000,30
+VEND-003,Luis Torres,Tienda Sur - Jockey,18000,30
+VEND-004,María Fernández,Tienda Central - Lima,15000,25
+VEND-005,Jorge Ramírez,Tienda Norte - Megaplaza,25000,40
+VEND-006,Sofia López,Tienda Sur - Jockey,15000,25
+VEND-007,Diego Morales,Tienda Central - Lima,15000,30
+VEND-008,Lucía Flores,Tienda Norte - Megaplaza,18000,25
+VEND-009,Gabriel Castro,Tienda Sur - Jockey,25000,30
+VEND-010,Valeria Rojas,Tienda Central - Lima,25000,40
+VEND-011,Fernando Silva,Tienda Norte - Megaplaza,18000,40
+VEND-012,Camila Vargas,Tienda Sur - Jockey,25000,35
+VEND-013,Andrés Paredes,Tienda Central - Lima,15000,30
+VEND-014,Patricia Ortiz,Tienda Norte - Megaplaza,22000,35
+VEND-015,Ricardo Navarro,Tienda Sur - Jockey,20000,30
