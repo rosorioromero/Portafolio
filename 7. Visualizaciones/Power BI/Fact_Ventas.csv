@@ -1,0 +1,502 @@
+ID_Venta,Fecha,ID_Vendedor,Marca,Modelo,Gama,Unidades_Vendidas,Precio_Unitario_USD,Ingreso_Total_USD,Metodo_Pago
+VEN-1001,2025-10-01,VEND-013,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1002,2025-10-01,VEND-006,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1003,2025-10-01,VEND-001,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1004,2025-10-01,VEND-015,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Crédito
+VEN-1005,2025-10-01,VEND-011,Xiaomi,Redmi Note 13 Pro+ 5G,Media,2,399,798,Tarjeta de Crédito
+VEN-1006,2025-10-01,VEND-004,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Débito
+VEN-1007,2025-10-01,VEND-013,Samsung,Galaxy S24 Ultra,Alta,3,1299,3897,Financiamiento
+VEN-1008,2025-10-01,VEND-014,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Débito
+VEN-1009,2025-10-01,VEND-014,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1010,2025-10-01,VEND-011,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Débito
+VEN-1011,2025-10-01,VEND-002,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Débito
+VEN-1012,2025-10-01,VEND-004,Apple,iPhone 14,Media,1,699,699,Tarjeta de Crédito
+VEN-1013,2025-10-01,VEND-015,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1014,2025-10-01,VEND-006,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1015,2025-10-01,VEND-014,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Crédito
+VEN-1016,2025-10-02,VEND-004,Motorola,Moto E13,Baja,2,109,218,Financiamiento
+VEN-1017,2025-10-02,VEND-006,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1018,2025-10-02,VEND-015,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1019,2025-10-02,VEND-004,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1020,2025-10-02,VEND-010,Samsung,Galaxy A55 5G,Media,2,449,898,Tarjeta de Crédito
+VEN-1021,2025-10-02,VEND-004,Apple,iPhone 14,Media,1,699,699,Tarjeta de Crédito
+VEN-1022,2025-10-02,VEND-001,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Débito
+VEN-1023,2025-10-02,VEND-013,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1024,2025-10-02,VEND-007,Xiaomi,Redmi Note 13 Pro+ 5G,Media,3,399,1197,Tarjeta de Débito
+VEN-1025,2025-10-02,VEND-009,Motorola,Moto G84 5G,Media,2,299,598,Tarjeta de Débito
+VEN-1026,2025-10-02,VEND-002,Xiaomi,Redmi 13C,Baja,2,139,278,Efectivo
+VEN-1027,2025-10-02,VEND-013,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1028,2025-10-02,VEND-003,Samsung,Galaxy A15,Baja,1,179,179,Efectivo
+VEN-1029,2025-10-03,VEND-009,Motorola,Edge 50 Pro,Media,1,599,599,Financiamiento
+VEN-1030,2025-10-03,VEND-014,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Débito
+VEN-1031,2025-10-03,VEND-010,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Efectivo
+VEN-1032,2025-10-03,VEND-009,Motorola,Edge 50 Pro,Media,2,599,1198,Financiamiento
+VEN-1033,2025-10-03,VEND-010,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1034,2025-10-03,VEND-006,Motorola,Moto E13,Baja,3,109,327,Efectivo
+VEN-1035,2025-10-03,VEND-004,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Débito
+VEN-1036,2025-10-03,VEND-002,Apple,iPhone 15,Alta,1,799,799,Efectivo
+VEN-1037,2025-10-03,VEND-013,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1038,2025-10-03,VEND-008,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Débito
+VEN-1039,2025-10-03,VEND-010,Samsung,Galaxy A55 5G,Media,2,449,898,Financiamiento
+VEN-1040,2025-10-03,VEND-013,Motorola,Razr 50 Ultra,Alta,1,999,999,Efectivo
+VEN-1041,2025-10-03,VEND-007,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1042,2025-10-03,VEND-009,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Crédito
+VEN-1043,2025-10-03,VEND-006,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Crédito
+VEN-1044,2025-10-03,VEND-004,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Débito
+VEN-1045,2025-10-04,VEND-002,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Crédito
+VEN-1046,2025-10-04,VEND-009,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Débito
+VEN-1047,2025-10-04,VEND-009,Apple,iPhone 14,Media,1,699,699,Financiamiento
+VEN-1048,2025-10-04,VEND-010,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Débito
+VEN-1049,2025-10-04,VEND-007,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Débito
+VEN-1050,2025-10-04,VEND-006,Samsung,Galaxy A55 5G,Media,1,449,449,Financiamiento
+VEN-1051,2025-10-04,VEND-001,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Débito
+VEN-1052,2025-10-04,VEND-001,Samsung,Galaxy A55 5G,Media,1,449,449,Efectivo
+VEN-1053,2025-10-04,VEND-002,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Débito
+VEN-1054,2025-10-04,VEND-003,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Débito
+VEN-1055,2025-10-04,VEND-014,Motorola,Moto E13,Baja,1,109,109,Efectivo
+VEN-1056,2025-10-04,VEND-014,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Débito
+VEN-1057,2025-10-04,VEND-009,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1058,2025-10-04,VEND-013,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1059,2025-10-04,VEND-008,Apple,iPhone SE (3rd Gen),Baja,2,429,858,Financiamiento
+VEN-1060,2025-10-05,VEND-007,Apple,iPhone 15 Pro Max,Alta,3,1199,3597,Tarjeta de Crédito
+VEN-1061,2025-10-05,VEND-013,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Crédito
+VEN-1062,2025-10-05,VEND-012,Motorola,Edge 50 Pro,Media,1,599,599,Efectivo
+VEN-1063,2025-10-05,VEND-003,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Financiamiento
+VEN-1064,2025-10-05,VEND-010,Motorola,Razr 50 Ultra,Alta,1,999,999,Efectivo
+VEN-1065,2025-10-05,VEND-001,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Débito
+VEN-1066,2025-10-05,VEND-014,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Financiamiento
+VEN-1067,2025-10-05,VEND-002,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Débito
+VEN-1068,2025-10-05,VEND-011,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1069,2025-10-05,VEND-015,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Débito
+VEN-1070,2025-10-05,VEND-010,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Débito
+VEN-1071,2025-10-05,VEND-009,Samsung,Galaxy S24,Alta,2,799,1598,Tarjeta de Crédito
+VEN-1072,2025-10-05,VEND-012,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1073,2025-10-05,VEND-011,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1074,2025-10-06,VEND-001,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Débito
+VEN-1075,2025-10-06,VEND-002,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Débito
+VEN-1076,2025-10-06,VEND-003,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Crédito
+VEN-1077,2025-10-06,VEND-004,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1078,2025-10-06,VEND-009,Motorola,Razr 50 Ultra,Alta,1,999,999,Financiamiento
+VEN-1079,2025-10-06,VEND-013,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Débito
+VEN-1080,2025-10-06,VEND-009,Samsung,Galaxy S24 Ultra,Alta,2,1299,2598,Tarjeta de Crédito
+VEN-1081,2025-10-06,VEND-015,Apple,iPhone 14,Media,1,699,699,Financiamiento
+VEN-1082,2025-10-06,VEND-012,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1083,2025-10-06,VEND-004,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Débito
+VEN-1084,2025-10-06,VEND-014,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1085,2025-10-06,VEND-015,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Débito
+VEN-1086,2025-10-06,VEND-014,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1087,2025-10-07,VEND-011,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1088,2025-10-07,VEND-012,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Crédito
+VEN-1089,2025-10-07,VEND-015,Motorola,Razr 50 Ultra,Alta,2,999,1998,Tarjeta de Débito
+VEN-1090,2025-10-07,VEND-014,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1091,2025-10-07,VEND-003,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Financiamiento
+VEN-1092,2025-10-07,VEND-013,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1093,2025-10-07,VEND-011,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1094,2025-10-07,VEND-009,Motorola,Moto E13,Baja,2,109,218,Financiamiento
+VEN-1095,2025-10-07,VEND-012,Apple,iPhone 14,Media,2,699,1398,Tarjeta de Crédito
+VEN-1096,2025-10-07,VEND-003,Motorola,Edge 50 Pro,Media,1,599,599,Financiamiento
+VEN-1097,2025-10-07,VEND-001,Apple,iPhone 14,Media,1,699,699,Tarjeta de Crédito
+VEN-1098,2025-10-07,VEND-015,Samsung,Galaxy A55 5G,Media,1,449,449,Financiamiento
+VEN-1099,2025-10-07,VEND-013,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Efectivo
+VEN-1100,2025-10-07,VEND-002,Samsung,Galaxy A55 5G,Media,2,449,898,Financiamiento
+VEN-1101,2025-10-08,VEND-004,Motorola,Moto G84 5G,Media,2,299,598,Tarjeta de Crédito
+VEN-1102,2025-10-08,VEND-014,Motorola,Edge 50 Pro,Media,2,599,1198,Tarjeta de Crédito
+VEN-1103,2025-10-08,VEND-011,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1104,2025-10-08,VEND-002,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Débito
+VEN-1105,2025-10-08,VEND-007,Xiaomi,Redmi 13C,Baja,3,139,417,Tarjeta de Débito
+VEN-1106,2025-10-08,VEND-001,Apple,iPhone 15,Alta,2,799,1598,Tarjeta de Crédito
+VEN-1107,2025-10-08,VEND-010,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Débito
+VEN-1108,2025-10-08,VEND-006,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1109,2025-10-08,VEND-009,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Débito
+VEN-1110,2025-10-08,VEND-005,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Crédito
+VEN-1111,2025-10-08,VEND-015,Motorola,Edge 50 Pro,Media,1,599,599,Efectivo
+VEN-1112,2025-10-08,VEND-012,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1113,2025-10-08,VEND-002,Xiaomi,Redmi 13C,Baja,2,139,278,Tarjeta de Débito
+VEN-1114,2025-10-08,VEND-011,Motorola,Moto G84 5G,Media,1,299,299,Financiamiento
+VEN-1115,2025-10-08,VEND-009,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1116,2025-10-09,VEND-009,Apple,iPhone 14,Media,1,699,699,Tarjeta de Débito
+VEN-1117,2025-10-09,VEND-007,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1118,2025-10-09,VEND-010,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Efectivo
+VEN-1119,2025-10-09,VEND-005,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Efectivo
+VEN-1120,2025-10-09,VEND-010,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1121,2025-10-09,VEND-011,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Efectivo
+VEN-1122,2025-10-09,VEND-013,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1123,2025-10-09,VEND-009,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1124,2025-10-09,VEND-014,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Crédito
+VEN-1125,2025-10-09,VEND-013,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1126,2025-10-09,VEND-008,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Crédito
+VEN-1127,2025-10-09,VEND-007,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Crédito
+VEN-1128,2025-10-09,VEND-012,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Crédito
+VEN-1129,2025-10-09,VEND-011,Motorola,Razr 50 Ultra,Alta,1,999,999,Efectivo
+VEN-1130,2025-10-09,VEND-013,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Crédito
+VEN-1131,2025-10-09,VEND-003,Motorola,Edge 50 Pro,Media,2,599,1198,Tarjeta de Débito
+VEN-1132,2025-10-10,VEND-009,Apple,iPhone SE (3rd Gen),Baja,2,429,858,Tarjeta de Crédito
+VEN-1133,2025-10-10,VEND-003,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Débito
+VEN-1134,2025-10-10,VEND-009,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Efectivo
+VEN-1135,2025-10-10,VEND-008,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Financiamiento
+VEN-1136,2025-10-10,VEND-007,Motorola,Moto G84 5G,Media,2,299,598,Tarjeta de Crédito
+VEN-1137,2025-10-10,VEND-003,Motorola,Razr 50 Ultra,Alta,2,999,1998,Tarjeta de Débito
+VEN-1138,2025-10-10,VEND-013,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1139,2025-10-10,VEND-013,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1140,2025-10-10,VEND-008,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Crédito
+VEN-1141,2025-10-10,VEND-006,Samsung,Galaxy S24,Alta,2,799,1598,Tarjeta de Crédito
+VEN-1142,2025-10-10,VEND-003,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1143,2025-10-10,VEND-004,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Crédito
+VEN-1144,2025-10-11,VEND-007,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Crédito
+VEN-1145,2025-10-11,VEND-015,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Débito
+VEN-1146,2025-10-11,VEND-014,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Crédito
+VEN-1147,2025-10-11,VEND-001,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1148,2025-10-11,VEND-015,Motorola,Moto G84 5G,Media,1,299,299,Efectivo
+VEN-1149,2025-10-11,VEND-009,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Crédito
+VEN-1150,2025-10-11,VEND-004,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1151,2025-10-11,VEND-006,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1152,2025-10-11,VEND-003,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1153,2025-10-11,VEND-010,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1154,2025-10-11,VEND-010,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Débito
+VEN-1155,2025-10-11,VEND-003,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1156,2025-10-11,VEND-007,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1157,2025-10-11,VEND-013,Motorola,Moto E13,Baja,1,109,109,Efectivo
+VEN-1158,2025-10-11,VEND-014,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Crédito
+VEN-1159,2025-10-11,VEND-001,Motorola,Razr 50 Ultra,Alta,1,999,999,Financiamiento
+VEN-1160,2025-10-11,VEND-006,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Efectivo
+VEN-1161,2025-10-11,VEND-011,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Financiamiento
+VEN-1162,2025-10-11,VEND-004,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1163,2025-10-12,VEND-008,Xiaomi,Redmi 13C,Baja,1,139,139,Financiamiento
+VEN-1164,2025-10-12,VEND-008,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1165,2025-10-12,VEND-010,Xiaomi,Redmi Note 13 Pro+ 5G,Media,2,399,798,Efectivo
+VEN-1166,2025-10-12,VEND-013,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1167,2025-10-12,VEND-010,Apple,iPhone 15 Pro Max,Alta,2,1199,2398,Tarjeta de Débito
+VEN-1168,2025-10-12,VEND-015,Samsung,Galaxy A55 5G,Media,1,449,449,Efectivo
+VEN-1169,2025-10-12,VEND-002,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Débito
+VEN-1170,2025-10-12,VEND-002,Motorola,Razr 50 Ultra,Alta,1,999,999,Financiamiento
+VEN-1171,2025-10-12,VEND-010,Motorola,Edge 50 Pro,Media,1,599,599,Financiamiento
+VEN-1172,2025-10-12,VEND-013,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Crédito
+VEN-1173,2025-10-12,VEND-006,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Crédito
+VEN-1174,2025-10-12,VEND-014,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Crédito
+VEN-1175,2025-10-12,VEND-006,Xiaomi,Redmi 13C,Baja,2,139,278,Tarjeta de Débito
+VEN-1176,2025-10-12,VEND-003,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Débito
+VEN-1177,2025-10-13,VEND-005,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Débito
+VEN-1178,2025-10-13,VEND-008,Samsung,Galaxy A15,Baja,1,179,179,Efectivo
+VEN-1179,2025-10-13,VEND-005,Samsung,Galaxy S24,Alta,2,799,1598,Efectivo
+VEN-1180,2025-10-13,VEND-002,Samsung,Galaxy S24 Ultra,Alta,2,1299,2598,Tarjeta de Crédito
+VEN-1181,2025-10-13,VEND-008,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Crédito
+VEN-1182,2025-10-13,VEND-001,Samsung,Galaxy A15,Baja,2,179,358,Tarjeta de Crédito
+VEN-1183,2025-10-13,VEND-004,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1184,2025-10-13,VEND-015,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Crédito
+VEN-1185,2025-10-13,VEND-001,Xiaomi,Xiaomi 14 Ultra,Alta,2,1099,2198,Tarjeta de Crédito
+VEN-1186,2025-10-13,VEND-012,Samsung,Galaxy A55 5G,Media,1,449,449,Efectivo
+VEN-1187,2025-10-13,VEND-012,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Débito
+VEN-1188,2025-10-13,VEND-013,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Crédito
+VEN-1189,2025-10-13,VEND-012,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Débito
+VEN-1190,2025-10-13,VEND-008,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1191,2025-10-13,VEND-012,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Efectivo
+VEN-1192,2025-10-13,VEND-005,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1193,2025-10-13,VEND-004,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Débito
+VEN-1194,2025-10-13,VEND-013,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1195,2025-10-13,VEND-008,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Financiamiento
+VEN-1196,2025-10-13,VEND-009,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Crédito
+VEN-1197,2025-10-13,VEND-004,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1198,2025-10-13,VEND-001,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1199,2025-10-14,VEND-009,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1200,2025-10-14,VEND-014,Motorola,Edge 50 Pro,Media,1,599,599,Financiamiento
+VEN-1201,2025-10-14,VEND-010,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1202,2025-10-14,VEND-003,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Financiamiento
+VEN-1203,2025-10-14,VEND-002,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Débito
+VEN-1204,2025-10-14,VEND-010,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1205,2025-10-14,VEND-013,Xiaomi,Redmi Note 13 Pro+ 5G,Media,2,399,798,Tarjeta de Crédito
+VEN-1206,2025-10-14,VEND-004,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Crédito
+VEN-1207,2025-10-14,VEND-010,Motorola,Edge 50 Pro,Media,1,599,599,Efectivo
+VEN-1208,2025-10-14,VEND-007,Samsung,Galaxy A15,Baja,2,179,358,Tarjeta de Crédito
+VEN-1209,2025-10-14,VEND-010,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Débito
+VEN-1210,2025-10-14,VEND-010,Motorola,Razr 50 Ultra,Alta,1,999,999,Efectivo
+VEN-1211,2025-10-15,VEND-004,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1212,2025-10-15,VEND-003,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1213,2025-10-15,VEND-008,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1214,2025-10-15,VEND-004,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Efectivo
+VEN-1215,2025-10-15,VEND-008,Apple,iPhone 15,Alta,1,799,799,Financiamiento
+VEN-1216,2025-10-15,VEND-013,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Débito
+VEN-1217,2025-10-15,VEND-015,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Débito
+VEN-1218,2025-10-15,VEND-011,Apple,iPhone 14,Media,2,699,1398,Efectivo
+VEN-1219,2025-10-15,VEND-002,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Crédito
+VEN-1220,2025-10-15,VEND-012,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1221,2025-10-15,VEND-002,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Débito
+VEN-1222,2025-10-15,VEND-005,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1223,2025-10-15,VEND-010,Apple,iPhone 15 Pro Max,Alta,2,1199,2398,Efectivo
+VEN-1224,2025-10-15,VEND-010,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1225,2025-10-15,VEND-011,Motorola,Moto G84 5G,Media,2,299,598,Tarjeta de Débito
+VEN-1226,2025-10-15,VEND-001,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Crédito
+VEN-1227,2025-10-15,VEND-001,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Débito
+VEN-1228,2025-10-15,VEND-011,Samsung,Galaxy A15,Baja,2,179,358,Tarjeta de Crédito
+VEN-1229,2025-10-15,VEND-010,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Débito
+VEN-1230,2025-10-15,VEND-002,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Crédito
+VEN-1231,2025-10-15,VEND-011,Apple,iPhone 15,Alta,2,799,1598,Tarjeta de Crédito
+VEN-1232,2025-10-15,VEND-012,Samsung,Galaxy A15,Baja,1,179,179,Financiamiento
+VEN-1233,2025-10-16,VEND-001,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Crédito
+VEN-1234,2025-10-16,VEND-002,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Débito
+VEN-1235,2025-10-16,VEND-001,Xiaomi,Redmi 13C,Baja,2,139,278,Tarjeta de Débito
+VEN-1236,2025-10-16,VEND-001,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Débito
+VEN-1237,2025-10-16,VEND-008,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1238,2025-10-16,VEND-005,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1239,2025-10-16,VEND-015,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1240,2025-10-16,VEND-011,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Efectivo
+VEN-1241,2025-10-16,VEND-005,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1242,2025-10-16,VEND-004,Motorola,Moto G84 5G,Media,2,299,598,Tarjeta de Débito
+VEN-1243,2025-10-16,VEND-002,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Débito
+VEN-1244,2025-10-16,VEND-012,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1245,2025-10-16,VEND-014,Samsung,Galaxy A15,Baja,3,179,537,Tarjeta de Crédito
+VEN-1246,2025-10-16,VEND-009,Apple,iPhone 14,Media,1,699,699,Financiamiento
+VEN-1247,2025-10-16,VEND-009,Motorola,Razr 50 Ultra,Alta,2,999,1998,Financiamiento
+VEN-1248,2025-10-16,VEND-005,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Crédito
+VEN-1249,2025-10-16,VEND-015,Motorola,Edge 50 Pro,Media,1,599,599,Efectivo
+VEN-1250,2025-10-16,VEND-005,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Débito
+VEN-1251,2025-10-16,VEND-011,Samsung,Galaxy A15,Baja,2,179,358,Tarjeta de Crédito
+VEN-1252,2025-10-16,VEND-008,Samsung,Galaxy S24,Alta,1,799,799,Efectivo
+VEN-1253,2025-10-17,VEND-008,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Crédito
+VEN-1254,2025-10-17,VEND-012,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1255,2025-10-17,VEND-013,Samsung,Galaxy A55 5G,Media,1,449,449,Efectivo
+VEN-1256,2025-10-17,VEND-012,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Crédito
+VEN-1257,2025-10-17,VEND-011,Motorola,Edge 50 Pro,Media,1,599,599,Financiamiento
+VEN-1258,2025-10-17,VEND-008,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Financiamiento
+VEN-1259,2025-10-17,VEND-006,Motorola,Moto G84 5G,Media,1,299,299,Efectivo
+VEN-1260,2025-10-17,VEND-002,Xiaomi,Xiaomi 14 Ultra,Alta,2,1099,2198,Tarjeta de Crédito
+VEN-1261,2025-10-17,VEND-003,Samsung,Galaxy A55 5G,Media,2,449,898,Financiamiento
+VEN-1262,2025-10-17,VEND-002,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Crédito
+VEN-1263,2025-10-17,VEND-010,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1264,2025-10-17,VEND-006,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Débito
+VEN-1265,2025-10-17,VEND-006,Xiaomi,Redmi 13C,Baja,1,139,139,Efectivo
+VEN-1266,2025-10-17,VEND-014,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1267,2025-10-17,VEND-011,Xiaomi,Redmi 13C,Baja,2,139,278,Financiamiento
+VEN-1268,2025-10-17,VEND-012,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Crédito
+VEN-1269,2025-10-17,VEND-011,Motorola,Razr 50 Ultra,Alta,2,999,1998,Tarjeta de Crédito
+VEN-1270,2025-10-17,VEND-012,Samsung,Galaxy S24 Ultra,Alta,2,1299,2598,Tarjeta de Crédito
+VEN-1271,2025-10-18,VEND-005,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1272,2025-10-18,VEND-009,Samsung,Galaxy A55 5G,Media,1,449,449,Efectivo
+VEN-1273,2025-10-18,VEND-003,Apple,iPhone 14,Media,1,699,699,Financiamiento
+VEN-1274,2025-10-18,VEND-010,Xiaomi,Redmi 13C,Baja,1,139,139,Financiamiento
+VEN-1275,2025-10-18,VEND-003,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1276,2025-10-18,VEND-005,Xiaomi,Redmi 13C,Baja,1,139,139,Efectivo
+VEN-1277,2025-10-18,VEND-015,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1278,2025-10-18,VEND-008,Samsung,Galaxy S24,Alta,3,799,2397,Tarjeta de Crédito
+VEN-1279,2025-10-18,VEND-007,Motorola,Razr 50 Ultra,Alta,1,999,999,Efectivo
+VEN-1280,2025-10-18,VEND-004,Samsung,Galaxy A55 5G,Media,2,449,898,Tarjeta de Crédito
+VEN-1281,2025-10-18,VEND-007,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Crédito
+VEN-1282,2025-10-18,VEND-012,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Efectivo
+VEN-1283,2025-10-19,VEND-005,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Débito
+VEN-1284,2025-10-19,VEND-012,Apple,iPhone 15 Pro Max,Alta,2,1199,2398,Efectivo
+VEN-1285,2025-10-19,VEND-014,Motorola,Moto E13,Baja,2,109,218,Efectivo
+VEN-1286,2025-10-19,VEND-004,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Crédito
+VEN-1287,2025-10-19,VEND-004,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Efectivo
+VEN-1288,2025-10-19,VEND-013,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1289,2025-10-19,VEND-002,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Crédito
+VEN-1290,2025-10-19,VEND-013,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Crédito
+VEN-1291,2025-10-19,VEND-003,Apple,iPhone 15,Alta,2,799,1598,Tarjeta de Crédito
+VEN-1292,2025-10-19,VEND-007,Apple,iPhone 14,Media,1,699,699,Efectivo
+VEN-1293,2025-10-19,VEND-015,Samsung,Galaxy S24,Alta,1,799,799,Financiamiento
+VEN-1294,2025-10-19,VEND-014,Apple,iPhone 14,Media,1,699,699,Efectivo
+VEN-1295,2025-10-19,VEND-008,Motorola,Edge 50 Pro,Media,1,599,599,Financiamiento
+VEN-1296,2025-10-19,VEND-013,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Crédito
+VEN-1297,2025-10-19,VEND-013,Apple,iPhone SE (3rd Gen),Baja,2,429,858,Efectivo
+VEN-1298,2025-10-19,VEND-007,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1299,2025-10-19,VEND-013,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Débito
+VEN-1300,2025-10-19,VEND-008,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Débito
+VEN-1301,2025-10-20,VEND-007,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1302,2025-10-20,VEND-011,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Débito
+VEN-1303,2025-10-20,VEND-009,Samsung,Galaxy S24,Alta,2,799,1598,Tarjeta de Crédito
+VEN-1304,2025-10-20,VEND-002,Xiaomi,Redmi 13C,Baja,1,139,139,Financiamiento
+VEN-1305,2025-10-20,VEND-005,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1306,2025-10-20,VEND-001,Samsung,Galaxy S24 Ultra,Alta,3,1299,3897,Tarjeta de Crédito
+VEN-1307,2025-10-20,VEND-004,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Crédito
+VEN-1308,2025-10-20,VEND-006,Xiaomi,Redmi 13C,Baja,2,139,278,Tarjeta de Débito
+VEN-1309,2025-10-20,VEND-009,Samsung,Galaxy A55 5G,Media,1,449,449,Efectivo
+VEN-1310,2025-10-20,VEND-015,Samsung,Galaxy A55 5G,Media,1,449,449,Efectivo
+VEN-1311,2025-10-20,VEND-010,Samsung,Galaxy A55 5G,Media,2,449,898,Tarjeta de Crédito
+VEN-1312,2025-10-20,VEND-012,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1313,2025-10-20,VEND-004,Motorola,Moto G84 5G,Media,1,299,299,Financiamiento
+VEN-1314,2025-10-20,VEND-006,Xiaomi,Xiaomi 14 Ultra,Alta,2,1099,2198,Tarjeta de Débito
+VEN-1315,2025-10-20,VEND-001,Samsung,Galaxy A55 5G,Media,1,449,449,Financiamiento
+VEN-1316,2025-10-20,VEND-014,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Débito
+VEN-1317,2025-10-20,VEND-011,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1318,2025-10-20,VEND-013,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1319,2025-10-20,VEND-010,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Efectivo
+VEN-1320,2025-10-20,VEND-004,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Financiamiento
+VEN-1321,2025-10-20,VEND-006,Motorola,Edge 50 Pro,Media,1,599,599,Financiamiento
+VEN-1322,2025-10-21,VEND-005,Motorola,Moto G84 5G,Media,3,299,897,Financiamiento
+VEN-1323,2025-10-21,VEND-009,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1324,2025-10-21,VEND-014,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Crédito
+VEN-1325,2025-10-21,VEND-013,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1326,2025-10-21,VEND-005,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Crédito
+VEN-1327,2025-10-21,VEND-002,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1328,2025-10-21,VEND-006,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Débito
+VEN-1329,2025-10-21,VEND-004,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Efectivo
+VEN-1330,2025-10-21,VEND-014,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Débito
+VEN-1331,2025-10-21,VEND-001,Apple,iPhone 15 Pro Max,Alta,3,1199,3597,Efectivo
+VEN-1332,2025-10-21,VEND-007,Xiaomi,Redmi 13C,Baja,1,139,139,Efectivo
+VEN-1333,2025-10-21,VEND-008,Apple,iPhone 15,Alta,2,799,1598,Tarjeta de Crédito
+VEN-1334,2025-10-22,VEND-002,Apple,iPhone 14,Media,1,699,699,Tarjeta de Débito
+VEN-1335,2025-10-22,VEND-009,Motorola,Razr 50 Ultra,Alta,1,999,999,Financiamiento
+VEN-1336,2025-10-22,VEND-009,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Débito
+VEN-1337,2025-10-22,VEND-002,Motorola,Edge 50 Pro,Media,1,599,599,Financiamiento
+VEN-1338,2025-10-22,VEND-011,Motorola,Moto E13,Baja,1,109,109,Efectivo
+VEN-1339,2025-10-22,VEND-004,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Crédito
+VEN-1340,2025-10-22,VEND-006,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1341,2025-10-22,VEND-002,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Débito
+VEN-1342,2025-10-22,VEND-006,Apple,iPhone 14,Media,1,699,699,Tarjeta de Débito
+VEN-1343,2025-10-22,VEND-002,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1344,2025-10-22,VEND-012,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1345,2025-10-22,VEND-001,Xiaomi,Redmi Note 13 Pro+ 5G,Media,2,399,798,Tarjeta de Débito
+VEN-1346,2025-10-22,VEND-011,Apple,iPhone 15,Alta,1,799,799,Financiamiento
+VEN-1347,2025-10-22,VEND-013,Samsung,Galaxy A55 5G,Media,2,449,898,Efectivo
+VEN-1348,2025-10-23,VEND-010,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Débito
+VEN-1349,2025-10-23,VEND-004,Apple,iPhone 14,Media,1,699,699,Tarjeta de Crédito
+VEN-1350,2025-10-23,VEND-002,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1351,2025-10-23,VEND-013,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Efectivo
+VEN-1352,2025-10-23,VEND-014,Xiaomi,Xiaomi 14 Ultra,Alta,3,1099,3297,Efectivo
+VEN-1353,2025-10-23,VEND-010,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1354,2025-10-23,VEND-015,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1355,2025-10-23,VEND-003,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1356,2025-10-23,VEND-006,Samsung,Galaxy S24,Alta,1,799,799,Financiamiento
+VEN-1357,2025-10-23,VEND-010,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1358,2025-10-23,VEND-011,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Débito
+VEN-1359,2025-10-23,VEND-007,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Crédito
+VEN-1360,2025-10-23,VEND-005,Motorola,Razr 50 Ultra,Alta,1,999,999,Financiamiento
+VEN-1361,2025-10-23,VEND-010,Apple,iPhone 15,Alta,2,799,1598,Tarjeta de Crédito
+VEN-1362,2025-10-23,VEND-013,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Crédito
+VEN-1363,2025-10-23,VEND-008,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Débito
+VEN-1364,2025-10-24,VEND-005,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1365,2025-10-24,VEND-007,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Débito
+VEN-1366,2025-10-24,VEND-008,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1367,2025-10-24,VEND-007,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Crédito
+VEN-1368,2025-10-24,VEND-004,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Crédito
+VEN-1369,2025-10-24,VEND-006,Apple,iPhone 15,Alta,1,799,799,Efectivo
+VEN-1370,2025-10-24,VEND-003,Apple,iPhone 14,Media,1,699,699,Efectivo
+VEN-1371,2025-10-24,VEND-009,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Efectivo
+VEN-1372,2025-10-24,VEND-002,Samsung,Galaxy A55 5G,Media,2,449,898,Tarjeta de Crédito
+VEN-1373,2025-10-24,VEND-001,Samsung,Galaxy A15,Baja,2,179,358,Financiamiento
+VEN-1374,2025-10-24,VEND-010,Samsung,Galaxy A55 5G,Media,1,449,449,Efectivo
+VEN-1375,2025-10-24,VEND-007,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1376,2025-10-24,VEND-006,Apple,iPhone 14,Media,1,699,699,Tarjeta de Débito
+VEN-1377,2025-10-24,VEND-014,Motorola,Razr 50 Ultra,Alta,2,999,1998,Tarjeta de Crédito
+VEN-1378,2025-10-24,VEND-014,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Débito
+VEN-1379,2025-10-24,VEND-009,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Crédito
+VEN-1380,2025-10-24,VEND-006,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1381,2025-10-24,VEND-009,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Débito
+VEN-1382,2025-10-25,VEND-006,Motorola,Razr 50 Ultra,Alta,2,999,1998,Tarjeta de Débito
+VEN-1383,2025-10-25,VEND-003,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1384,2025-10-25,VEND-003,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Efectivo
+VEN-1385,2025-10-25,VEND-002,Apple,iPhone 14,Media,2,699,1398,Tarjeta de Débito
+VEN-1386,2025-10-25,VEND-008,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Débito
+VEN-1387,2025-10-25,VEND-011,Motorola,Moto E13,Baja,2,109,218,Tarjeta de Débito
+VEN-1388,2025-10-25,VEND-010,Samsung,Galaxy S24,Alta,2,799,1598,Tarjeta de Débito
+VEN-1389,2025-10-25,VEND-003,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Crédito
+VEN-1390,2025-10-25,VEND-005,Motorola,Edge 50 Pro,Media,1,599,599,Tarjeta de Crédito
+VEN-1391,2025-10-25,VEND-009,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Débito
+VEN-1392,2025-10-25,VEND-001,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1393,2025-10-25,VEND-014,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Débito
+VEN-1394,2025-10-25,VEND-007,Samsung,Galaxy A15,Baja,1,179,179,Financiamiento
+VEN-1395,2025-10-25,VEND-012,Motorola,Moto E13,Baja,1,109,109,Financiamiento
+VEN-1396,2025-10-25,VEND-010,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Débito
+VEN-1397,2025-10-25,VEND-009,Apple,iPhone 14,Media,2,699,1398,Tarjeta de Débito
+VEN-1398,2025-10-25,VEND-013,Motorola,Moto E13,Baja,1,109,109,Financiamiento
+VEN-1399,2025-10-26,VEND-009,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1400,2025-10-26,VEND-008,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Débito
+VEN-1401,2025-10-26,VEND-006,Samsung,Galaxy S24,Alta,2,799,1598,Tarjeta de Crédito
+VEN-1402,2025-10-26,VEND-013,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1403,2025-10-26,VEND-011,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1404,2025-10-26,VEND-009,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1405,2025-10-26,VEND-014,Xiaomi,Redmi 13C,Baja,2,139,278,Tarjeta de Débito
+VEN-1406,2025-10-26,VEND-003,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Débito
+VEN-1407,2025-10-26,VEND-015,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Débito
+VEN-1408,2025-10-26,VEND-011,Samsung,Galaxy A55 5G,Media,1,449,449,Efectivo
+VEN-1409,2025-10-26,VEND-002,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Débito
+VEN-1410,2025-10-26,VEND-006,Motorola,Moto G84 5G,Media,1,299,299,Efectivo
+VEN-1411,2025-10-26,VEND-012,Xiaomi,Redmi 13C,Baja,2,139,278,Tarjeta de Crédito
+VEN-1412,2025-10-27,VEND-007,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1413,2025-10-27,VEND-003,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Efectivo
+VEN-1414,2025-10-27,VEND-004,Apple,iPhone SE (3rd Gen),Baja,3,429,1287,Tarjeta de Crédito
+VEN-1415,2025-10-27,VEND-005,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Débito
+VEN-1416,2025-10-27,VEND-009,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Débito
+VEN-1417,2025-10-27,VEND-011,Samsung,Galaxy S24,Alta,2,799,1598,Tarjeta de Débito
+VEN-1418,2025-10-27,VEND-010,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Crédito
+VEN-1419,2025-10-27,VEND-012,Motorola,Edge 50 Pro,Media,1,599,599,Financiamiento
+VEN-1420,2025-10-27,VEND-012,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Crédito
+VEN-1421,2025-10-27,VEND-012,Apple,iPhone SE (3rd Gen),Baja,2,429,858,Tarjeta de Débito
+VEN-1422,2025-10-27,VEND-013,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Crédito
+VEN-1423,2025-10-27,VEND-004,Samsung,Galaxy S24 Ultra,Alta,2,1299,2598,Efectivo
+VEN-1424,2025-10-27,VEND-015,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Débito
+VEN-1425,2025-10-27,VEND-010,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Crédito
+VEN-1426,2025-10-27,VEND-007,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Financiamiento
+VEN-1427,2025-10-27,VEND-014,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1428,2025-10-27,VEND-005,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Financiamiento
+VEN-1429,2025-10-27,VEND-009,Motorola,Moto E13,Baja,1,109,109,Efectivo
+VEN-1430,2025-10-27,VEND-014,Apple,iPhone 15,Alta,1,799,799,Efectivo
+VEN-1431,2025-10-27,VEND-005,Samsung,Galaxy A15,Baja,2,179,358,Tarjeta de Crédito
+VEN-1432,2025-10-27,VEND-007,Apple,iPhone 15,Alta,2,799,1598,Tarjeta de Crédito
+VEN-1433,2025-10-27,VEND-008,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Crédito
+VEN-1434,2025-10-28,VEND-007,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1435,2025-10-28,VEND-002,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1436,2025-10-28,VEND-002,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1437,2025-10-28,VEND-003,Apple,iPhone 14,Media,1,699,699,Financiamiento
+VEN-1438,2025-10-28,VEND-008,Motorola,Razr 50 Ultra,Alta,1,999,999,Efectivo
+VEN-1439,2025-10-28,VEND-008,Samsung,Galaxy A15,Baja,1,179,179,Financiamiento
+VEN-1440,2025-10-28,VEND-001,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1441,2025-10-28,VEND-012,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Crédito
+VEN-1442,2025-10-28,VEND-005,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1443,2025-10-28,VEND-007,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Débito
+VEN-1444,2025-10-28,VEND-002,Motorola,Moto G84 5G,Media,2,299,598,Tarjeta de Débito
+VEN-1445,2025-10-28,VEND-001,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1446,2025-10-29,VEND-005,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Crédito
+VEN-1447,2025-10-29,VEND-010,Samsung,Galaxy A55 5G,Media,1,449,449,Tarjeta de Débito
+VEN-1448,2025-10-29,VEND-009,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Débito
+VEN-1449,2025-10-29,VEND-009,Motorola,Edge 50 Pro,Media,3,599,1797,Tarjeta de Débito
+VEN-1450,2025-10-29,VEND-007,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Débito
+VEN-1451,2025-10-29,VEND-006,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Crédito
+VEN-1452,2025-10-29,VEND-002,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Débito
+VEN-1453,2025-10-29,VEND-002,Motorola,Edge 50 Pro,Media,1,599,599,Efectivo
+VEN-1454,2025-10-29,VEND-003,Apple,iPhone 15 Pro Max,Alta,1,1199,1199,Tarjeta de Crédito
+VEN-1455,2025-10-29,VEND-011,Apple,iPhone 14,Media,1,699,699,Tarjeta de Débito
+VEN-1456,2025-10-29,VEND-012,Samsung,Galaxy A15,Baja,1,179,179,Efectivo
+VEN-1457,2025-10-29,VEND-002,Motorola,Razr 50 Ultra,Alta,1,999,999,Tarjeta de Débito
+VEN-1458,2025-10-29,VEND-005,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1459,2025-10-29,VEND-001,Samsung,Galaxy S24,Alta,2,799,1598,Tarjeta de Débito
+VEN-1460,2025-10-30,VEND-008,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Tarjeta de Débito
+VEN-1461,2025-10-30,VEND-005,Samsung,Galaxy S24,Alta,2,799,1598,Tarjeta de Crédito
+VEN-1462,2025-10-30,VEND-011,Samsung,Galaxy S24,Alta,1,799,799,Efectivo
+VEN-1463,2025-10-30,VEND-007,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Crédito
+VEN-1464,2025-10-30,VEND-007,Samsung,Galaxy S24,Alta,3,799,2397,Tarjeta de Débito
+VEN-1465,2025-10-30,VEND-008,Samsung,Galaxy S24,Alta,2,799,1598,Tarjeta de Débito
+VEN-1466,2025-10-30,VEND-013,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Crédito
+VEN-1467,2025-10-30,VEND-010,Motorola,Moto G84 5G,Media,1,299,299,Tarjeta de Crédito
+VEN-1468,2025-10-30,VEND-002,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Crédito
+VEN-1469,2025-10-30,VEND-008,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Crédito
+VEN-1470,2025-10-30,VEND-008,Samsung,Galaxy S24,Alta,1,799,799,Efectivo
+VEN-1471,2025-10-30,VEND-015,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1472,2025-10-30,VEND-011,Motorola,Edge 50 Pro,Media,2,599,1198,Tarjeta de Crédito
+VEN-1473,2025-10-30,VEND-011,Samsung,Galaxy A55 5G,Media,1,449,449,Efectivo
+VEN-1474,2025-10-30,VEND-011,Apple,iPhone 14,Media,2,699,1398,Tarjeta de Crédito
+VEN-1475,2025-10-30,VEND-010,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1476,2025-10-30,VEND-002,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Tarjeta de Crédito
+VEN-1477,2025-10-30,VEND-007,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Tarjeta de Crédito
+VEN-1478,2025-10-30,VEND-008,Samsung,Galaxy S24,Alta,1,799,799,Efectivo
+VEN-1479,2025-10-30,VEND-010,Apple,iPhone 14,Media,1,699,699,Tarjeta de Crédito
+VEN-1480,2025-10-31,VEND-005,Apple,iPhone SE (3rd Gen),Baja,2,429,858,Tarjeta de Crédito
+VEN-1481,2025-10-31,VEND-003,Samsung,Galaxy A15,Baja,1,179,179,Financiamiento
+VEN-1482,2025-10-31,VEND-002,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Efectivo
+VEN-1483,2025-10-31,VEND-004,Xiaomi,Redmi Note 13 Pro+ 5G,Media,1,399,399,Financiamiento
+VEN-1484,2025-10-31,VEND-008,Apple,iPhone SE (3rd Gen),Baja,1,429,429,Financiamiento
+VEN-1485,2025-10-31,VEND-008,Apple,iPhone 14,Media,2,699,1398,Tarjeta de Crédito
+VEN-1486,2025-10-31,VEND-002,Motorola,Edge 50 Pro,Media,1,599,599,Efectivo
+VEN-1487,2025-10-31,VEND-006,Xiaomi,Redmi 13C,Baja,1,139,139,Tarjeta de Crédito
+VEN-1488,2025-10-31,VEND-009,Samsung,Galaxy S24 Ultra,Alta,2,1299,2598,Financiamiento
+VEN-1489,2025-10-31,VEND-012,Motorola,Razr 50 Ultra,Alta,2,999,1998,Tarjeta de Débito
+VEN-1490,2025-10-31,VEND-013,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1491,2025-10-31,VEND-004,Motorola,Edge 50 Pro,Media,1,599,599,Efectivo
+VEN-1492,2025-10-31,VEND-001,Samsung,Galaxy S24,Alta,1,799,799,Tarjeta de Crédito
+VEN-1493,2025-10-31,VEND-013,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Financiamiento
+VEN-1494,2025-10-31,VEND-002,Samsung,Galaxy S24 Ultra,Alta,1,1299,1299,Efectivo
+VEN-1495,2025-10-31,VEND-008,Xiaomi,Xiaomi 14 Ultra,Alta,1,1099,1099,Tarjeta de Crédito
+VEN-1496,2025-10-31,VEND-010,Apple,iPhone 15,Alta,1,799,799,Tarjeta de Crédito
+VEN-1497,2025-10-31,VEND-002,Samsung,Galaxy A15,Baja,1,179,179,Tarjeta de Débito
+VEN-1498,2025-10-31,VEND-003,Motorola,Moto E13,Baja,1,109,109,Tarjeta de Débito
+VEN-1499,2025-10-31,VEND-010,Apple,iPhone 14,Media,1,699,699,Tarjeta de Crédito
+VEN-1500,2025-10-31,VEND-009,Motorola,Moto E13,Baja,2,109,218,Efectivo
+VEN-1501,2025-10-31,VEND-009,Apple,iPhone 14,Media,1,699,699,Tarjeta de Crédito
