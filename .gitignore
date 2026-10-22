@@ -15,6 +15,9 @@ Thumbs.db
 
 # Archivos personales o documentos excluidos
 Portafolio de Proyectos.docx
+*.xlsx
+*.xls
+*.csv
 
 # Archivos en desarrollo / incompletos
 3. Pronostico/prophet_demanda_multi.ipynb
